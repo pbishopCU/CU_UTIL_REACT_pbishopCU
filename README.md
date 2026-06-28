@@ -12,16 +12,3 @@
 - Container-Presentational design pattern
 
 
-???????
-
-another little edit again
-
-'kldfjas
-
-in prod 
-trigger warning! again
-trigger some
-new edit
-sdfsdfavsdf
-asdfasdff
-another edit
