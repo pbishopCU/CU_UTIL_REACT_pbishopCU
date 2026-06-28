@@ -11,4 +11,4 @@
 - Views to handle OAuth Authentication 
 - Container-Presentational design pattern
 
-
+- But lets keep this section. 
