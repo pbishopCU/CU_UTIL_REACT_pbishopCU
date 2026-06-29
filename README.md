@@ -12,3 +12,5 @@
 - Container-Presentational design pattern
 
 - But lets keep this section. 
+
+git status check
